@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.ignitedev.pharmaclock;
 
 import android.support.multidex.MultiDexApplication;
 

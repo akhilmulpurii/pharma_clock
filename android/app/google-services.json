@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955173010444",
+    "firebase_url": "https://pharmaclock-2eef3.firebaseio.com",
+    "project_id": "pharmaclock-2eef3",
+    "storage_bucket": "pharmaclock-2eef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955173010444:android:26cb663b9fd66faa",
+        "android_client_info": {
+          "package_name": "com.ignitedev.pharmaclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955173010444-tqiuvfbd598rjs7s17nv7a79qicgi55d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqyI1Pbe5B783nGTlg-ifQxUql67vPJZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955173010444-tqiuvfbd598rjs7s17nv7a79qicgi55d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955173010444-07p45a23itlnvnoubo1jtlnplckidv2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ignitedev.pharmaclock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
