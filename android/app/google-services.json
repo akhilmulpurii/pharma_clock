@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:955173010444:android:26cb663b9fd66faa",
+        "mobilesdk_app_id": "1:955173010444:android:fabad14db9a9140d",
         "android_client_info": {
-          "package_name": "com.ignitedev.pharmaclock"
+          "package_name": "com.pharmaclock"
         }
       },
       "oauth_client": [
@@ -32,10 +32,10 @@
               "client_type": 3
             },
             {
-              "client_id": "955173010444-07p45a23itlnvnoubo1jtlnplckidv2f.apps.googleusercontent.com",
+              "client_id": "955173010444-ddm2mn3hdtjeum84hikeiln0mb4vigl8.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ignitedev.pharmaclock"
+                "bundle_id": "com.example.helloWorld"
               }
             }
           ]

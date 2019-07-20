@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>955173010444-07p45a23itlnvnoubo1jtlnplckidv2f.apps.googleusercontent.com</string>
+	<string>955173010444-nf54t20rn86oops8f54lo7iqnpo5fja5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.955173010444-07p45a23itlnvnoubo1jtlnplckidv2f</string>
+	<string>com.googleusercontent.apps.955173010444-nf54t20rn86oops8f54lo7iqnpo5fja5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>955173010444-13eb60o3ie6u1mjpe5vdji3vbf59if1v.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCW3lyFaPV6AJt9BI29_NQEpx6hNWe2_Z4</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ignitedev.pharmaclock</string>
+	<string>com.pharmaclock</string>
 	<key>PROJECT_ID</key>
 	<string>pharmaclock-2eef3</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:955173010444:ios:26cb663b9fd66faa</string>
+	<string>1:955173010444:ios:fabad14db9a9140d</string>
 	<key>DATABASE_URL</key>
 	<string>https://pharmaclock-2eef3.firebaseio.com</string>
 </dict>
